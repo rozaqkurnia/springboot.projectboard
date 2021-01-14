@@ -1,2 +1,2 @@
 # springboot.projectboard
-api project task management using springboot
+project task management using springboot for backend api and react for frontend
